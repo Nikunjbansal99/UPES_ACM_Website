@@ -2508,6 +2508,12 @@ ul {
   padding: 12px 0px;
 }
 
+.contact-button:hover {
+  background-color: white;
+  border: 1px solid blue;
+  border-radius: 50px;
+}
+
 /* line 11, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .main_menu .main-menu-item {
   text-align: right !important;
