@@ -2508,6 +2508,13 @@ ul {
   padding: 12px 0px;
 }
 
+.contact-button:hover {
+  background-color: white;
+  border: 1px solid blue;
+  border-radius: 50px;
+}
+
+
 /* line 11, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .main_menu .main-menu-item {
   text-align: right !important;
@@ -3259,12 +3266,9 @@ ul {
 
 /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_img {
-  background-image: url(../img/about_overlay.png);
   background-repeat: no-repeat;
-  background-position: left;
   position: relative;
-  background-size: 100% 100%;
-  height: 549px;
+  height: 559px;
 }
 
 @media (max-width: 576px) {
@@ -3295,11 +3299,13 @@ ul {
 }
 
 /* line 68, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
-.about_part .about_img .img_1 {
+.about_part .about_img .img_1{
   position: absolute;
-  left: 0;
-  top: 50px;
+  left: 25%;
+  top: 0px;
 }
+
+
 
 @media (max-width: 576px) {
   /* line 68, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
@@ -3367,8 +3373,8 @@ ul {
 
 /* line 106, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_img h2 {
-  bottom: -29px;
-  right: -115px;
+  bottom: -20px;
+  right: -167px;
   font-size: 42px;
   font-weight: 600;
   line-height: 45px;
