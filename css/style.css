@@ -2505,7 +2505,7 @@ ul {
 
 /* line 7, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .main_menu .navbar {
-  padding: 12px 0px;
+  padding: 1px 0px;
 }
 
 .contact-button:hover {
@@ -2570,7 +2570,7 @@ ul {
   display: block;
   margin-top: 18px;
   border: 0px solid transparent;
-  background-color: #e614ff;
+  background-color: #5dc5fd;
 }
 
 /* line 67, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
@@ -2578,7 +2578,7 @@ ul {
   font-size: 14px;
   padding: 8px 20px !important;
   color: #fff !important;
-  background-color: #e614ff;
+  background-color: #5dc5fd;
 }
 
 /* line 77, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
@@ -2594,11 +2594,16 @@ ul {
 /* line 87, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .menu_fixed {
   position: fixed;
-  z-index: 9999 !important;
+  z-index: 1000 !important;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
   width: 100%;
-  background-color: #ff8ac8;
+  background-color: #5dc5fd;
   top: 0;
-  max-height: 200px;
+  left: 0;
+  transition: all .3s;
+  height:105px;
+  padding-bottom: 0px;
+  padding-top: 0px;
 }
 
 /* line 94, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
@@ -4142,7 +4147,7 @@ ul {
 
 /* line 72, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
 .service_part .single_service_part:hover .single_service_part_iner span {
-  background-color: #ff1481;
+  background-color: #ff8ac8;
 }
 
 /**************** learn_about css start ****************/
