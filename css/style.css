@@ -3306,7 +3306,7 @@ ul {
 /* line 68, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_img .img_1{
   position: absolute;
-  left: 25%;
+  left: 15%;
   top: 0px;
 }
 
@@ -3378,7 +3378,7 @@ ul {
 
 /* line 106, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_img h2 {
-  bottom: -20px;
+  bottom: -9px;
   right: -167px;
   font-size: 42px;
   font-weight: 600;
