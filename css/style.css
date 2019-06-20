@@ -3280,7 +3280,7 @@ ul {
   /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_img {
     height: 500px;
-    background-image: url(../img/DSC_0042.JPG);
+    background-image: url(../img/IMG20.jpg);
     background-size: cover;
   }
 }
@@ -3289,7 +3289,7 @@ ul {
   /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_img {
     height: 500px;
-    background-image: url(../img/DSC_0042.JPG);
+    background-image: url(../img/IMG20.jpg);
     background-size: cover;
   }
 }
@@ -3298,7 +3298,7 @@ ul {
   /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_img {
     height: 500px;
-    background-image: url(../img/DSC_0042.JPG);
+    background-image: url(../img/IMG20.jpg);
     background-size: cover;
   }
 }
@@ -3378,7 +3378,7 @@ ul {
 
 /* line 106, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_img h2 {
-  bottom: -9px;
+  bottom: 20px;
   right: -167px;
   font-size: 42px;
   font-weight: 600;
