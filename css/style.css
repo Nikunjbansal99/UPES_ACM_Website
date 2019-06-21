@@ -4053,6 +4053,7 @@ ul {
   border-radius: 5px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
+  height: 500px;
 }
 
 @media (max-width: 576px) {
@@ -4060,6 +4061,7 @@ ul {
   .service_part .single_service_part_iner {
     padding: 35px 14px;
     margin: 10px 0px;
+    width: 100%;
   }
 }
 
@@ -4068,6 +4070,7 @@ ul {
   .service_part .single_service_part_iner {
     padding: 35px 14px;
     margin: 10px 0px;
+    width: 100%;
   }
 }
 
@@ -4076,6 +4079,7 @@ ul {
   .service_part .single_service_part_iner {
     padding: 35px 14px;
     margin: 10px 0px;
+    width: 100%;
   }
 }
 
