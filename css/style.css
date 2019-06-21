@@ -308,7 +308,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
 
 /* line 171, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_common.scss */
 .section_tittle p {
-  color: #ff1481;
+  color: #5dc5fd;
   font-weight: 500;
   font-size: 14px;
   margin-bottom: 17px;
@@ -823,7 +823,7 @@ ul {
 .btn_1 {
   display: inline-block;
   padding: 19.5px 42px;
-  background-color: #ff8ac8;
+  background-color: #5dc5fd;
   font-size: 14px;
   text-transform: uppercase;
   color: #fff;
@@ -3165,7 +3165,7 @@ ul {
 
 /* line 19, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_cta_part.scss */
 .cta_part .cta_part_iner .cta_part_text p {
-  color: #ff1481;
+  color: #5dc5fd;
   text-transform: uppercase;
   margin-bottom: 10px;
   font-weight: 500;
@@ -3521,7 +3521,7 @@ ul {
 
 /* line 198, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_text h5 {
-  color: #ff1481;
+  color: #5dc5fd;
   font-size: 14px;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
@@ -4152,7 +4152,7 @@ ul {
 
 /* line 72, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
 .service_part .single_service_part:hover .single_service_part_iner span {
-  background-color: #ff8ac8;
+  background-color: #5dc5fd;
 }
 
 /**************** learn_about css start ****************/
