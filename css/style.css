@@ -2776,6 +2776,15 @@ ul {
   background-color: #f7f7f7;
 }
 
+.hero-image {
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/d12.jpg");
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 /* line 8, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_banner.scss */
 .banner_part:after {
   position: absolute;
