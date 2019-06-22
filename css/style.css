@@ -2524,7 +2524,7 @@ ul {
 
 /* line 16, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .main_menu .main-menu-item ul li a {
-  color: #112e41 !important;
+  /*color: #112e41 !important;*/
   font-size: 15px;
   padding: 9px 24px !important;
   font-family: "Roboto", sans-serif;
@@ -2645,6 +2645,13 @@ ul {
   /* line 125, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .main_menu .main-menu-item .nav-item a {
     padding: 5px 15px !important;
+  }
+  .navbar-nav .nav-item .nav-link {
+    color: red;
+  }
+  .navbar-nav .nav-item.active .nav-link,
+  .navbar-nav .nav-item:hover .nav-link {
+   color: #5dc5fd;
   }
   /* line 132, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .dropdown .dropdown-menu {
