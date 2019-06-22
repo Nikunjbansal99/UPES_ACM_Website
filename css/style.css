@@ -308,7 +308,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
 
 /* line 171, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_common.scss */
 .section_tittle p {
-  color: #5dc5fd;
+  color: #00a6ff;
   font-weight: 500;
   font-size: 14px;
   margin-bottom: 17px;
@@ -3165,7 +3165,7 @@ ul {
 
 /* line 19, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_cta_part.scss */
 .cta_part .cta_part_iner .cta_part_text p {
-  color: #5dc5fd;
+  color: #00a6ff;
   text-transform: uppercase;
   margin-bottom: 10px;
   font-weight: 500;
@@ -3521,7 +3521,7 @@ ul {
 
 /* line 198, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_text h5 {
-  color: #5dc5fd;
+  color: #00a6ff;
   font-size: 14px;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
@@ -5438,7 +5438,7 @@ ul {
 
 /* line 9, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_copyright_part.scss */
 .copyright_part a {
-  color: #5dc5fd;
+  color: #00a6ff;
 }
 
 @media (max-width: 576px) {
@@ -8117,7 +8117,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 223, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_footer.scss */
 .footer-area .copyright_part_text a {
-  color: #5dc5fd;
+  color: #00a6ff;
 }
 
 /* line 227, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_footer.scss */
