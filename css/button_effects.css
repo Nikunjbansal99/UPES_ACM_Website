@@ -9,12 +9,12 @@
     margin: 4px 2px;
     cursor: pointer; 
     border-radius: 50px;
-	border: 2px solid #5dc5fd;
+    border: 3px solid #5dc5fd;
     margin-top: 44px;
 }
 .nbutton:hover {
 	background:none;
-	border: 4px solid #5dc5fd;
+	border: 3px solid #5dc5fd;
 	
 }
 .nbutton1 {
@@ -28,11 +28,11 @@
     margin: 4px 2px;
     cursor: pointer; 
     border-radius: 50px;
-	border: 2px solid #5dc5fd;
+    border: 3px solid #5dc5fd;
     margin-top: 10px;
 }
 .nbutton1:hover {
 	background:none;
-	border: 4px solid #5dc5fd;
+	border: 3px solid #5dc5fd;
 	
 }
