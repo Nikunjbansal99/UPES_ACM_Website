@@ -7766,7 +7766,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/breadcrumb.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
