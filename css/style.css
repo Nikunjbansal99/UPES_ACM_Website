@@ -17,6 +17,10 @@ body {
   font-size: 14px;
 }
 
+a+a {
+  margin-left: 10px;
+}
+
 /* line 9, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_common.scss */
 .message_submit_form:focus {
   outline: none;
