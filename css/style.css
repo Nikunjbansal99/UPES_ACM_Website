@@ -2653,10 +2653,10 @@ ul {
   .navbar-nav .nav-item .nav-link {
     color: black;
   }
-  .navbar-nav .nav-item.active .nav-link,
+/*  .navbar-nav .nav-item.active .nav-link,
   .navbar-nav .nav-item:hover .nav-link {
    color: #5dc5fd;
-  }
+  }*/
   /* line 132, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .dropdown .dropdown-menu {
     transform: scale(1, 0);
