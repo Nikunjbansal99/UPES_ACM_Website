@@ -36,3 +36,11 @@
 	border: 2px solid #5dc5fd;
 	
 }
+.send_message{
+    color:'black';
+}
+.send_message:hover{
+    color: #5dc5fc;
+    text-decoration: none;
+    transition: 0.5s;
+}
