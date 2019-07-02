@@ -4073,7 +4073,8 @@ ul {
   border-radius: 5px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
-  height: 500px;
+  height: 475px;
+  margin: 10px 0px;	
 }
 
 @media (max-width: 576px) {
