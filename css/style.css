@@ -7782,7 +7782,7 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
 }
 .breadcrumb_bg2 {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/about_cover.jpg");
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/about_cover.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
