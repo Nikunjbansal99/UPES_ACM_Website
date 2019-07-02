@@ -7771,7 +7771,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/team_cover.jpg");
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/team_cover.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7783,7 +7783,7 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
 }
 .breadcrumb_bg2 {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/about_cover.png");
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../img/about_cover.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
