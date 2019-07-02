@@ -3405,6 +3405,7 @@ ul {
   line-height: 45px;
   position: absolute;
   z-index: 6;
+  color: #ff1481;	
 }
 
 @media (max-width: 576px) {
@@ -3465,7 +3466,7 @@ ul {
   content: "";
   width: 190px;
   height: 210px;
-  border: 8px solid #ff1481;
+  border: 8px solid #333;
   left: -126px;
   top: -54px;
   z-index: -1;
